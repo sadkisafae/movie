@@ -1,0 +1,16 @@
+.m{
+    display: flex;
+    flex-direction: column;
+    /* justify-content: space-around; */
+}
+.cards{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+
+
+}
+.topBar{
+    display: flex;
+    justify-content: space-between;
+}

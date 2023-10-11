@@ -1,0 +1,26 @@
+.media{
+    display: flex;
+    flex-direction: column;
+    width: 400px;
+    padding: 5px;
+    margin : 5px 0;
+    position: relative;
+
+}
+.media:hover {
+background-color: white;
+color: black;
+}
+.poster{
+    border-radius: 20%;
+}
+.title{
+ width: 250px;
+ /* text-align: center; */
+}
+img{
+    width: 300px;
+}
+.card{
+    display: flex;
+}

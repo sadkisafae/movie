@@ -1,0 +1,13 @@
+nav{
+    padding: 10px 5px ;
+    background-color: blue;
+}
+h1{
+    color: white;
+}
+.admin{
+    background-color: gray;
+    color: black;
+    margin-left: 90%;
+    border-radius: 40%;
+}
